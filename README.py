@@ -1,5 +1,5 @@
 # study-time-calculator
-A simple python program to calculate total study time
+#A simple python program to calculate total study time
 # Study Time Calculator
 
 print("===== STUDY TIME CALCULATOR =====")
